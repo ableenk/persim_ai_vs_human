@@ -4,6 +4,7 @@ requirements:
 numpy, pandas, sklearn, gensim, xgboost, ripser, persim
 
 dataset:
+
 100000 texts created by human
 100000 texts created by AI
 
