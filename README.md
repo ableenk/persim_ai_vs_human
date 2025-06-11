@@ -24,3 +24,5 @@ for each text:
 
 # result
 score on test: 0.85
+
+only 4500 texts used for training
