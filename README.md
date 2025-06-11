@@ -21,3 +21,6 @@ for each text:
 3. calculate persistent diagram
 4. calculate persistence image of this diagram
 5. train models with persistence image as feature
+
+# result
+score on test: 0.85
