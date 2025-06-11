@@ -31,4 +31,5 @@ only 4500 texts used for training
 
 # reference
 original dataset: https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text/data
+
 persim paper: https://arxiv.org/abs/1507.06217
