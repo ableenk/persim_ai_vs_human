@@ -8,7 +8,7 @@ numpy, pandas, sklearn, gensim, xgboost, ripser, persim
 
 ## dataset
 
-100000 texts created by human and 100000 texts created by AI
+3000 texts created by human and 3000 texts created by AI
 
 generated column: 0 is for human and 1 is for AI
 
