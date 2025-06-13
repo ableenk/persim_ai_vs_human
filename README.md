@@ -17,8 +17,8 @@ data is already processed, all texts are lowercase and have no punctuation
 # method
 for each text:
 1. take 120 most frequent words
-2. vectorize all of them
-3. calculate persistent diagram
+2. vectorize all of them -> this will be our point cloud
+3. calculate persistent diagram on obtain cloud
 4. calculate persistence image of this diagram
 5. train models with persistence image as feature
 
